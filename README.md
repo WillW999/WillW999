@@ -10,7 +10,7 @@
 - <b>Descriptive Analysis</b>
   - [Correlational analysis of the Dating App Lovoo](https://github.com/WillW999/ML-Spam-E-Mail-Classifier)
 - <b>Text Analysis</b>
-  - [Automated Text Analysis and Word Cloud creation tool](https://github.com/WillW999/ML-Spam-E-Mail-Classifier)
+  - [Automated Text Analysis and Word Cloud creation tool](https://github.com/WillW999/Automated-Text-Analytics-Tool)
 
 <h2> 🤳 Connect with me:</h2>
 
