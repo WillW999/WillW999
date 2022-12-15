@@ -1,16 +1,16 @@
 <h1>Will Wright's Data Science Portfolio: <br/><a href="https://github.com/WillW999"></a>
 
 
-
-
+  
+- <b>Text Analysis</b>
+  - [Automated Text Analysis and Word Cloud creation tool](https://github.com/WillW999/Automated-Text-Analytics-Tool)
 - <b>Unsupervised Machine Learning</b>
   - [ML Clustering of Chicago Crime](https://github.com/WillW999/Kmeans-Clustering-of-Crime)
 - <b>Supervised Machine Learning</b>
   - [Spam E-mail Classifier](https://github.com/WillW999/ML-Spam-E-Mail-Classifier)
 - <b>Descriptive Analysis</b>
   - [Correlational analysis of the Dating App Lovoo](https://github.com/WillW999/Correlational-Analysis-of-Lovoo)
-- <b>Text Analysis</b>
-  - [Automated Text Analysis and Word Cloud creation tool](https://github.com/WillW999/Automated-Text-Analytics-Tool)
+
 
 <h2> 🤳 Connect with me:</h2>
 
